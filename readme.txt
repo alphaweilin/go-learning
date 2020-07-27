@@ -1,1 +1,1 @@
-https://tour.go-zh.org/moretypes/24
+https://tour.go-zh.org/concurrency/9
